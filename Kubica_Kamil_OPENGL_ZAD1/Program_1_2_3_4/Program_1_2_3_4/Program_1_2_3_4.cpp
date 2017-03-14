@@ -1,12 +1,5 @@
 
-//http://cpp0x.pl/kursy/Kurs-OpenGL-C++/Elementarne-obiekty-geometryczne/107
-//std::vector < GLint > vertex_x;
-//std::vector < GLint > vertex_y;
-//glBegin(GL_LINE_LOOP);
-//for (unsigned int i = 0; i < vertex_x.size(); i++)
-//glVertex2i(vertex_x[i], vertex_y[i]);
 
-//glEnd();
 #include "stdafx.h"
 #include <vector>
 
