@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Program_1_2_3_4.cpp
+e:\opengl\zad1\program_1_2_3_4\program_1_2_3_4\program_1_2_3_4.cpp(39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\opengl\zad1\program_1_2_3_4\program_1_2_3_4\program_1_2_3_4.cpp(50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\opengl\zad1\program_1_2_3_4\program_1_2_3_4\program_1_2_3_4.cpp(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\opengl\zad1\program_1_2_3_4\program_1_2_3_4\program_1_2_3_4.cpp(76): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\opengl\zad1\program_1_2_3_4\program_1_2_3_4\program_1_2_3_4.cpp(93): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Program_1_2_3_4.vcxproj -> E:\OPENGL\Zad1\Program_1_2_3_4\Debug\Program_1_2_3_4.exe
+  Program_1_2_3_4.vcxproj -> E:\OPENGL\Zad1\Program_1_2_3_4\Debug\Program_1_2_3_4.pdb (Full PDB)
